@@ -40,3 +40,4 @@ def play_guess_number():
 
 if __name__ == "__main__":
     play_guess_number()
+    print("遊戲結束，謝謝你的參與！")
